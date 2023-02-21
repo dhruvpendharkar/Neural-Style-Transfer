@@ -1,0 +1,7 @@
+To Do:
+
+Finish html code for web app UI
+
+Implement pystiche and bing image api code backend
+
+Implement flask backend with Google Colab
